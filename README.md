@@ -3,14 +3,10 @@ A mobile recipe discovery application for iOS and Android built with Expo (React
 ## Screenshots
 Home Screen
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8aa147c5-165f-4910-986d-94537a63bcf6" alt="Screenshot 1" width="200"/>
-  <img src="https://github.com/user-attachments/assets/22dd482b-e2a6-4f52-a4b8-94f15f12bc3e" alt="Screenshot 2" width="200"/>
-  <img src="https://github.com/user-attachments/assets/33f8189f-9fdf-4910-9bec-419415a139f4" alt="Dashboard" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b023692e-0649-40cc-ac23-e0d27ec7e6c4" alt="Screenshot 3" width="200"/>
-  <img src="https://github.com/user-attachments/assets/1d037c1b-7e8a-461d-9b23-2f496bba5abf" alt="Screenshot 4" width="200"/>
+   <img src="https://github.com/user-attachments/assets/13f791ea-14b4-4551-b17f-98db5cf33664" alt="Screenshot 4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f7b857e3-a7eb-4435-b103-daae8a60f1e2" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/23560a07-ec5f-4a67-8fa6-55f4166a1a6e" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/d3ec212a-e874-40d0-8eaf-fd32a6dda24f" alt="Screenshot 1" width="200"/>
   </p>
 
   ## ✨ Features
